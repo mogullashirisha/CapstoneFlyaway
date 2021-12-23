@@ -1,0 +1,6 @@
+steps\ViewBookings.class
+steps\LoginSteps.class
+steps\BookingClass.class
+testng\TestRunner.class
+steps\SignupClass.class
+steps\LoginClass.class
